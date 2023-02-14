@@ -1,5 +1,4 @@
-# CMSC-447-Website-Assignment
-CMSC 447 Website Assignment
+# CMSC447 Website Assignment
 
 NOTE: This website *MUST* be hosted in order to be displayed correctly.
 If you do not wish to host this website, some minor changes would have
